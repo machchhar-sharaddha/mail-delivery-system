@@ -1,0 +1,36 @@
+﻿ID,Name,Mailing Address,Campus Mail Code,Road Access
+1,Univerisity of Illinois: Armory,"505 E. Armory, Champaign","526, 528, 532, 534, 536 ","E. Armory Ave, E. Gregory Dr "
+2,Harding Band Building,"1103 S. Sixth, Champaign",524,S. 6th St 
+3,Gregory Hall,"810 S. Wright, Urbana","462, 466, 468, 477",S. Wright St
+4,Lincoln Hall,"702 S. Wright, Urbana","446, 454, 456",S. Wright St
+5,English Building,"608 S. Wright, Urbana",718,S. Wright St
+6,Ice Arena,"406 E. Armory, Champaign",525,"E. Armory Ave, S. 5th St, S. 4th St"
+7,Sherman Residence Hall,"909 S. Fifth, Champaign",490,"S. 5th St, E. Chalmers St"
+8,School of Information Sciences,"501 E. Daniel, Champaign",493,"S. 5th St, E. Daniel St"
+9,Speech and Hearing Clinic,"901 S. Sixth, Champaign",482,"S. 6th St, E. Daniel St"
+10,Psychology Building,"603 E. Daniel, Champaign",716,"S. 6th St, E. Daniel St"
+11,Illini Union Bookstore,"807 S Wright, Urbana",310,"S. Wright St, E. Daniel St"
+12,Turner Student Services Building,"610 E. John, Champaign",306,"S. 6th St, E. John St"
+13,Student Services Arcade Building,"715 S. Wright, Champaign",383,S. Wright St
+14,Altgeld Hall,"1409 W. Green, Urbana",382,"W. Green St, S. Wright St"
+15,Henry Administration Building,"506 S. Wright, Urbana",346,S. Wright St
+16,Main Library,"1408 W. Gregory, Urbana",522,"W. Gregory Dr, S. Wright St"
+17,Everitt Laboratory,"1406 W. Green, Urbana",702,"W. Green St, S. Wright St"
+18,Engineering Hall,"1308 W. Green, Urbana",272,W. Green St
+19,Talbot Laboratory,"104 S. Wright, Urbana",236,"S. Wright St, E. Healey St"
+20,Materials Science and Engineering Building,"1304 W. Green, Urbana",246,"W. Green St, S. Matthew St"
+21,Univerisity of Illinois: Armory_E. Armory Ave,,,
+22,Univerisity of Illinois: Armory_E Gregory Dr,,,
+23,Harding Band Building_E. 6th St,,,
+24,Gregory Hall_S. Wright St,,,
+25,Lincoln Hall_S. Wright St,,,
+26,S. 4th St_E. Armory Ave,,,
+27,S. 4th St_E. Gregory Dr,,,
+28,S. 4th St_E. Chalmers St,,,
+29,S. 6th St_E. Armory Ave,,,
+30,S.6th St_E. Chalmers St,,,
+31,S. 6th St_E. Gregory Dr,,,
+32,S. Wright St_E. Armory Ave,,,
+33,S. Wright St_E. Chalmer St,,,
+34,S. Wright St_E. Gregory Dr,,,
+35,S. 5th St_E. Armory Ave,,,

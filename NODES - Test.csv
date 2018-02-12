@@ -1,0 +1,57 @@
+ID,TypeID,Name,Mailing Address,Campus Mail Code,Road Access
+1,B1,Univerisity of Illinois: Armory,"505 E. Armory, Champaign","526, 528, 532, 534, 536","E. Armory Ave, E. Gregory Dr"
+2,B2,Harding Band Building,"1103 S. Sixth, Champaign",524,S. 6th St
+3,B3,Gregory Hall,"810 S. Wright, Urbana","462, 466, 468, 477",S. Wright St
+4,B4,Lincoln Hall,"702 S. Wright, Urbana","446, 454, 456",S. Wright St
+5,B5,English Building,"608 S. Wright, Urbana",718,S. Wright St
+6,B6,Ice Arena,"406 E. Armory, Champaign",525,"E. Armory Ave, S. 5th St, S. 4th St"
+7,B7,Sherman Residence Hall,"909 S. Fifth, Champaign",490,"S. 5th St, E. Chalmers St"
+8,B8,School of Information Sciences,"501 E. Daniel, Champaign",493,"S. 5th St, E. Daniel St"
+9,B9,Speech and Hearing Clinic,"901 S. Sixth, Champaign",482,"S. 6th St, E. Daniel St"
+10,B10,Psychology Building,"603 E. Daniel, Champaign",716,"S. 6th St, E. Daniel St"
+11,B11,Illini Union Bookstore,"807 S Wright, Urbana",310,"S. Wright St, E. Daniel St"
+12,B12,Turner Student Services Building,"610 E. John, Champaign",306,"S. 6th St, E. John St"
+13,B13,Student Services Arcade Building,"715 S. Wright, Champaign",383,S. Wright St
+14,B14,Altgeld Hall,"1409 W. Green, Urbana",382,"W. Green St, S. Wright St"
+15,B15,Henry Administration Building,"506 S. Wright, Urbana",346,S. Wright St
+16,B16,Main Library,"1408 W. Gregory, Urbana",522,"W. Gregory Dr, S. Wright St"
+17,B17,Everitt Laboratory,"1406 W. Green, Urbana",702,"W. Green St, S. Wright St"
+18,B18,Engineering Hall,"1308 W. Green, Urbana",272,W. Green St
+19,B19,Talbot Laboratory,"104 S. Wright, Urbana",236,"S. Wright St, E. Healey St"
+20,B20,Materials Science and Engineering Building,"1304 W. Green, Urbana",246,"W. Green St, S. Matthew St"
+21,A21,Univerisity of Illinois: Armory_E. Armory Ave,,,
+22,A22,Univerisity of Illinois: Armory_E Gregory Dr,,,
+23,A23,Harding Band Building_E. 6th St,,,
+24,A24,Gregory Hall_S. Wright St,,,
+25,A25,Lincoln Hall_S. Wright St,,,
+26,I26,S. 4th St_E. Armory Ave,,,
+27,I27,S. 4th St_E. Gregory Dr,,,
+28,I28,S. 4th St_E. Chalmers St,,,
+29,I29,S. 6th St_E. Armory Ave,,,
+30,I30,S.6th St_E. Chalmers St,,,
+31,I31,S. 6th St_E. Gregory Dr,,,
+32,I32,S. Wright St_E. Armory Ave,,,
+33,I33,S. Wright St_E. Chalmer St,,,
+34,I34,S. Wright St_E. Gregory Dr,,,
+35,I35,S. 5th St_E. Armory Ave,,,
+36,A36,English Building_S. Wright St,,,
+37,A37,Ice Arena_E. Armory Ave,,,
+38,A38,Sherman Residence Hall_S. 5th St,,,
+39,A39,School of Information Sciences_E. Daniel St,,,
+40,A40,Speech and Hearing Clinic_S. 6th St,,,
+41,A41,Psychology Building_S. 6th St,,,
+42,A42,Psychology Building_E. Daniel St,,,
+43,A43,Illini Union Bookstore_E. Daniel St,,,
+44,A44,Illini Union Bookstore_S. Wright St,,,
+45,A45,Turner Student Services Building_E. John St,,,
+46,A46,Student Services Arcade Building_E. John St,,,
+47,A47,Altgeld Hall_S. Wright St,,,
+48,A48,Henry Administration Building_S. Wright St,,,
+49,A49,Main Library_E. Armory Ave,,,
+50,A50,Main Library_E. Gregory Dr,,,
+51,A51,Everitt Laboratory_S. Wright St,,,
+52,A52,Everitt Laboratory_W. Green St,,,
+53,A53,Engineering Hall_W. Green St,,,
+54,A54,Talbot Laboratory_S. Wright St,,,
+55,A55,Materials Science and Engineering Building_W. Green St,,,
+56,A56,Materials Science and Engineering Building_S. Matthew Ave,,,
